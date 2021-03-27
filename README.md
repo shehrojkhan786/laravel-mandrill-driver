@@ -1,6 +1,6 @@
 ## Installation 
 ```
-composer require salamwaddah/laravel-mandrill-driver
+composer require Shehrojkhan786/laravel-mandrill-driver
 ```
 
 ## Configure
