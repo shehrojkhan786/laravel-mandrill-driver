@@ -1,6 +1,6 @@
 <?php
 
-namespace SalamWaddah\Mandrill;
+namespace Shehrojkhan786\Mandrill;
 
 use Illuminate\Notifications\Messages\MailMessage;
 use Illuminate\Support\Facades\Config;
